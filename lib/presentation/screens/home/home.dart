@@ -174,7 +174,7 @@ class DraggableItem extends StatelessWidget {
                       ),
                       Expanded(
                         child: Padding(
-                          padding: const EdgeInsets.only(top: 20.0),
+                          padding: EdgeInsets.only(top: 10.0.h),
                           child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
